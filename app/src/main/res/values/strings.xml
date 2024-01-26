@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RootApp</string>
+    <string name="android_course">ANDROID COURSE</string>
+    <string name="full_stack">FULL STACK</string>
+    <string name="ios_course">IOS COURSE</string>
+    <string name="todo">TODO</string>
+</resources>
